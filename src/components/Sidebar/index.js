@@ -12,7 +12,7 @@ import './index.scss';
 const {
   wordings = [],
   githubUsername,
-  zhihuUsername,
+  twitterUsername,
   email,
   iconUrl,
   about,
@@ -45,8 +45,8 @@ const Sidebar = ({ post, totalCount, posts }) => (
       <p className="mb-1">{wordings[0]}</p>
       <p className="mb-3">{wordings[1]}</p>
       <Icon
-        href={`https://www.zhihu.com/people/${zhihuUsername}`}
-        icon={['fab', 'zhihu']}
+        href={`https://www.twitter.com/${twitterUsername}`}
+        icon={['fab', 'twitter']}
       />
       <Icon
         href={`https://github.com/${githubUsername}`}

@@ -33,7 +33,7 @@ const Footer = () => (
             &nbsp;
             {config.title}
             {new Date().getFullYear()}
-            &nbsp;Theme by Calpa Liu
+            &nbsp;Theme by Calpa Liu & liray-unendlich
           </p>
         </div>
       </div>

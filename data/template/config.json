@@ -1,25 +1,25 @@
 {
-  "url": "https://calpa.me",
+  "url": "https://gunu-node.com",
   "meta": {
     "favicon": "https://i.imgur.com/PO9Y4fT.jpg",
-    "keyword": "calpa, blog, JavaScript",
-    "description": "Calpa 的技術博客，開發日常，以及遇到的坑",
+    "keyword": "masternode, マスターノード, crypto, 仮想通貨",
+    "description": "マスターノードで、生きていく。",
     "theme_color": "#384f7c",
     "google_site_verification": "riZBcestky7i9xY__A-5J-2EE65T75X1u-zgbss37Io"
   },
-  "name": "calpa",
+  "name": "gunutai",
   "about": "/2018/05/01/about-calpa-liu/",
-  "email": "calpaliu@gmail.com",
+  "email": "arusu2906@gmail.com",
   "stats": {
     "image": "https://i.imgur.com/VjBWiSt.png",
     "title": "過去三十日數據",
     "description": "過去三十日數據"
   },
-  "title": "Calpa 的技術博客",
+  "title": "Github",
   "gitalk": {
-    "repo": "calpa.github.io",
-    "admin": ["calpa"],
-    "owner": "calpa",
+    "repo": "liray-unendlich.github.io",
+    "admin": ["liray-unendlich"],
+    "owner": "liray-unedlich",
     "clientID": "18255f031b5e11edd98a",
     "clientSecret": "2ff6331da9e53f9a91bcc991d38d550c85026714",
     "pagerDirection": "first",
@@ -27,50 +27,22 @@
   },
   "License": "by",
   "friends": [
-    {
-      "href": "https://www.boatsky.com/",
-      "title": "太空船博客"
-    },
-    {
-      "href": "http://blog.shanamaid.top/",
-      "title": "娜酱骑士团"
-    },
-    {
-      "href": "https://clarencec.github.io/",
-      "title": "Clarence Blog"
-    },
-    {
-      "href": "http://f2ex.cn/",
-      "title": "F2EX"
-    },
-    {
-      "href": "https://jeffjade.com/",
-      "title": "晚晴幽草轩"
-    },
-    {
-      "href": "https://macplay.github.io/",
-      "title": "MacPlay"
-    }
   ],
   "iconUrl": "https://i.imgur.com/kjt2x52.jpg",
-  "wordings": ["GatsbyJS, ReactJS", "全週期開發者"],
+  "wordings": ["GatsbyJS, ReactJS", "マスターノード"],
   "gaTrackId": "UA-84737574-3",
   "navbarList": [
     {
       "href": "/2018/12/24/front-end-blog-system-review-2018/",
-      "title": "網站數據"
-    },
-    {
-      "href": "/guestbook/",
-      "title": "留言簿"
+      "title": "ウェブサイトデータ"
     },
     {
       "href": "/tags/",
-      "title": "Tags"
+      "title": "タグ"
     },
     {
       "href": "/2018/05/01/about-calpa-liu/",
-      "title": "關於作者"
+      "title": "私について"
     }
   ],
   "redirectors": [
@@ -86,7 +58,7 @@
       "target": "/stats/"
     }
   ],
-  "zhihuUsername": "piao-xue-wu-ying",
-  "githubUsername": "calpa",
+  "twitterUsername": "@pukupuyotai",
+  "githubUsername": "liray-unendlich",
   "maxPostsInPage": 10
 }
